@@ -7,4 +7,7 @@ public class test {
         System.out.println("yeni methodun hazır");
         System.out.println("sepete ekle kısımları buralar");
     }
-}
+    public static void sepettenSil()
+    {
+        System.out.println("sepetten sil bölümü bitti");
+    }}
