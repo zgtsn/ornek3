@@ -4,7 +4,6 @@ public class test {
     }
 
     public static  void yeniMethod(){
-        System.out.println("yeni methodun hazır");
         System.out.println("sepete ekle kısımları buralar");
     }
     public static void sepettenSil()
